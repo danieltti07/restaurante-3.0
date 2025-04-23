@@ -57,7 +57,6 @@ export default function Header() {
             <span className="text-xl font-bold text-primary">Seu Restaurante</span>
           </Link>
 
-
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-6">
             <Link href="/" className="font-medium hover:text-primary transition-colors">
